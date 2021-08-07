@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my studies
 - 🌱 I’m currently learning: C# with Unity
 - 👯 I’m looking to collaborate on: nowadays nothing
-- 🤔 I’m looking for help with: internship in USA
+- 🤔 I’m looking for help with: internship at USA
 - 💬 Ask me about: How was my day
 - 📫 How to reach me: luiz7727 or GamerCode001(twitch)
 - 😄 Pronouns: He
