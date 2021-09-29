@@ -1,7 +1,7 @@
 ### Hello Guys 👋
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning: C# with Unity
+- 🌱 I’m currently learning: Java
 - 👯 I’m looking to collaborate on: nowadays nothing
 - 💬 Ask me about: How was my day
 - ⚡ Fun fact: life is small
