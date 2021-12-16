@@ -22,7 +22,6 @@
   ##
   
   <div>
- 	<a href="https://www.twitch.tv/gamercode001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luiz-antonio-a33708181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/luiz7727/luiz7727/blob/output/github-contribution-grid-snake.svg)
